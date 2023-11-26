@@ -7,3 +7,4 @@ PyAudio==0.2.13
 scipy==1.10.1
 SpeechRecognition==3.10.0
 textblob==0.17.1
+gunicorn==19.7.1
