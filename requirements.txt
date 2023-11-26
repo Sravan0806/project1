@@ -4,7 +4,7 @@ librosa==0.10.0.post2
 noisereduce==2.0.1
 numpy==1.21.6
 PyAudio==0.2.13
-scipy==1.10.1
+scipy==1.7.3
 SpeechRecognition==3.10.0
 textblob==0.17.1
 gunicorn==19.7.1
